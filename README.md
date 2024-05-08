@@ -45,10 +45,16 @@ Lets build the future of Human/AI colaborative song writting tigether -- Synergi
 ----------------------------------------------------------------------------------------------------------------------
 Explanation of Key Markdown Elements:
 
-# Headings: Lines starting with "#" become headings (different numbers of "#" create different heading levels)
-Bold and Italics: Surround text with "**" for bold or "*" for italics.
-Lists: Use "-" or "*" at the start of each line to create an unordered list.
-Code Blocks: Enclose code examples with three backticks (```) on a separate line before and after the code.
+### XML Example (Basic Verse)
+
+Below is a simple XML example demonstrating how to structure a verse with basic phrasing instructions. The file would be named `basic_verse_example.xml`:
+
+```xml
+<verse>
+  <line>I'm walking <emphasis>down</emphasis> this lonely road</line> 
+  <line>Searching for a place to call my own <pause length="short"/></line> 
+  <line><stress>Can</stress> you <rise>help</rise> me find my way home?</line> 
+</verse>
 
 
 -----------------------------------------------------------------------------------------------------------------------
