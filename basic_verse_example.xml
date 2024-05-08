@@ -1,0 +1,10 @@
+### XML Example (Basic Verse)
+
+Below is a simple XML example demonstrating how to structure a verse with basic phrasing instructions:
+
+```xml
+<verse>
+  <line>I'm walking <emphasis>down</emphasis> this lonely road</line> 
+  <line>Searching for a place to call my own <pause length="short"/></line> 
+  <line><stress>Can</stress> you <rise>help</rise> me find my way home?</line> 
+</verse>
