@@ -50,10 +50,9 @@ This folder contains additional resources for understanding the goals and contex
 
 * **Project Uplift White Paper (PDF):** This document outlines the overarching vision for human-AI collaboration, which SongGenXML aims to contribute to in regard to music. 
 
-----------------------------------------------------------------------------------------------------------------------
-Explanation of Key Markdown Elements:
+-----------------------------------------------------------------------------------------------------------------------
 
-### XML Example (Basic Verse)
+## XML Example (Basic Verse)
 
 Below is a simple XML example demonstrating how to structure a verse with basic phrasing instructions. The file would be named `basic_verse_example.xml`:
 
