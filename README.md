@@ -59,7 +59,7 @@ Below is a simple XML example demonstrating how to structure a verse with basic 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## Background Materials
+### Background Materials
 
 This folder contains additional resources for understanding the goals and context of the SongGenXML project. Here you'll find:
 
