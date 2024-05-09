@@ -32,7 +32,7 @@ We're seeking music enthusiasts, AI developers, and anyone passionate about shap
 
 ## Getting Started
 
-* **Example XML:** (We'll create this together next)
+* **basic_verse_example.xml:** (We'll create create more together soon)
 * **Current Features:** [Brief list of what's currently possible]
 * **Planned Features:** [Ideas for future development]
 
