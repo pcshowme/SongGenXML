@@ -58,3 +58,12 @@ Below is a simple XML example demonstrating how to structure a verse with basic 
 
 
 -----------------------------------------------------------------------------------------------------------------------
+
+## Background Materials
+
+This folder contains additional resources for understanding the goals and context of the SongGenXML project. Here you'll find:
+
+* **Project Uplift White Paper (PDF):** This document outlines the overarching vision for human-AI collaboration, which SongGenXML aims to contribute to in regard to music. 
+
+
+-----------------------------------------------------------------------------------------------------------------------
